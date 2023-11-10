@@ -5,6 +5,7 @@ body {
     color: #797979;
     background: #ffffff;
     font-family: 'Montserrat', sans-serif;
+    position: absolute;
 }
 
 h1,
@@ -17,14 +18,14 @@ h6 {
 }
 
 a {
-    color: #313131;
+    color: #EF233C;
     transition: .3s;
 }
 
 a:hover,
 a:active,
 a:focus {
-    color: #EF233C;
+    color: #9a1eb5db;
     outline: none;
     text-decoration: none;
 }
